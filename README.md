@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 目标: 努力，奋斗💪
+- If you don't keep moving, you'll quickly fall behind
+
 
 <!---
 # bellacce
