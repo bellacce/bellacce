@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 目标: 努力，奋斗💪
+- 🔭 Deep learning, deep doing💪.
 - Action precedes motivation.
 - If you don't keep moving, you'll quickly fall behind.
 
