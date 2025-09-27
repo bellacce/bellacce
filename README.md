@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/bellacce/bellacce/blob/main/developer.gif"/>
+  <img align="center" src="https://github.com/bellacce/bellacce/blob/main/developer.svg" height="225px" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=bellacce&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
 </p>
 
